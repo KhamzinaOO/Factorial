@@ -1,0 +1,13 @@
+C:\Users\Olga\source\repos\FactorialCalculation\FactorialCalculation\obj\Debug\netcoreapp3.1\FactorialCalculation.csprojAssemblyReference.cache
+C:\Users\Olga\source\repos\FactorialCalculation\FactorialCalculation\obj\Debug\netcoreapp3.1\FactorialCalculation.AssemblyInfoInputs.cache
+C:\Users\Olga\source\repos\FactorialCalculation\FactorialCalculation\obj\Debug\netcoreapp3.1\FactorialCalculation.AssemblyInfo.cs
+C:\Users\Olga\source\repos\FactorialCalculation\FactorialCalculation\obj\Debug\netcoreapp3.1\FactorialCalculation.csproj.CoreCompileInputs.cache
+C:\Users\Olga\source\repos\FactorialCalculation\FactorialCalculation\bin\Debug\netcoreapp3.1\FactorialCalculation.exe
+C:\Users\Olga\source\repos\FactorialCalculation\FactorialCalculation\bin\Debug\netcoreapp3.1\FactorialCalculation.deps.json
+C:\Users\Olga\source\repos\FactorialCalculation\FactorialCalculation\bin\Debug\netcoreapp3.1\FactorialCalculation.runtimeconfig.json
+C:\Users\Olga\source\repos\FactorialCalculation\FactorialCalculation\bin\Debug\netcoreapp3.1\FactorialCalculation.runtimeconfig.dev.json
+C:\Users\Olga\source\repos\FactorialCalculation\FactorialCalculation\bin\Debug\netcoreapp3.1\FactorialCalculation.dll
+C:\Users\Olga\source\repos\FactorialCalculation\FactorialCalculation\bin\Debug\netcoreapp3.1\FactorialCalculation.pdb
+C:\Users\Olga\source\repos\FactorialCalculation\FactorialCalculation\obj\Debug\netcoreapp3.1\FactorialCalculation.dll
+C:\Users\Olga\source\repos\FactorialCalculation\FactorialCalculation\obj\Debug\netcoreapp3.1\FactorialCalculation.pdb
+C:\Users\Olga\source\repos\FactorialCalculation\FactorialCalculation\obj\Debug\netcoreapp3.1\FactorialCalculation.genruntimeconfig.cache
